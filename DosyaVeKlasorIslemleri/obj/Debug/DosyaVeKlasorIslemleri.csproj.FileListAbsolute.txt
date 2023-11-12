@@ -1,0 +1,7 @@
+C:\Users\303\source\repos\DosyaVeKlasorIslemleri\DosyaVeKlasorIslemleri\bin\Debug\DosyaVeKlasorIslemleri.exe.config
+C:\Users\303\source\repos\DosyaVeKlasorIslemleri\DosyaVeKlasorIslemleri\bin\Debug\DosyaVeKlasorIslemleri.exe
+C:\Users\303\source\repos\DosyaVeKlasorIslemleri\DosyaVeKlasorIslemleri\bin\Debug\DosyaVeKlasorIslemleri.pdb
+C:\Users\303\source\repos\DosyaVeKlasorIslemleri\DosyaVeKlasorIslemleri\obj\Debug\DosyaVeKlasorIslemleri.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\DosyaVeKlasorIslemleri\DosyaVeKlasorIslemleri\obj\Debug\DosyaVeKlasorIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\DosyaVeKlasorIslemleri\DosyaVeKlasorIslemleri\obj\Debug\DosyaVeKlasorIslemleri.exe
+C:\Users\303\source\repos\DosyaVeKlasorIslemleri\DosyaVeKlasorIslemleri\obj\Debug\DosyaVeKlasorIslemleri.pdb
